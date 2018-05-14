@@ -1,0 +1,4 @@
+- [API说明](README.md)
+- API VERSION 1
+- [学校信息](/v1/school.md)
+- [单点登陆](/v1/auth.md)
