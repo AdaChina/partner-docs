@@ -19,13 +19,12 @@ V1
 ### Header
 #### 身份验证
 
-访问API时，需提供API Key以及API Secret进行身份验证
+访问 API 时，需提供 API Key 以及 API Secret 进行授权。
 
-```json
-{
-  key: "dd970b75-75e4-45cf-91d7-a6fc8d399489"
-  secret: "dJgnOnuZwOrla8IU2GiirUgbNX7HivAjjByHo8E7"
-}
+Key 和 Secret 格式:
+```
+key: "dd970b75-75e4-45cf-91d7-a6fc8d399489"
+secret: "dJgnOnuZwOrla8IU2GiirUgbNX7HivAjjByHo8E7"
 ```
 
 #### API版本号
